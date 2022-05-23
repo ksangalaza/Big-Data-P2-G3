@@ -6,10 +6,10 @@ import scala.collection.mutable.ArrayBuffer
 
 
 
-object MyGenerator { 
+class MyGenerator { 
     val cityCountryDatatime = new ArrayBuffer[String]()
-    val f = new File("country.csv")
-    val sc = new Scanner(f)   
+    // val f = new File("country.csv")
+    // val sc = new Scanner(f)   
    
 val cityListArray = ArrayBuffer("New Orleans", "Brighton", "Gloucester", "Anchorage", "Butler","Ashland","Cook","San Jose","Sioux Falls","Baltimore","Kulpsville","Middle Island"
 ,"Los Angeles","Chagrin Falls","Laredo","Phoenix","Mc Minnville","Milwaukee","Taylor","Rockford","Aston","San Jose","Irving","Albany","Middlesex","Stevens Point"
@@ -62,11 +62,11 @@ def  getDateTimeList(): String ={
             
 }// end date time List
 
- def main(arg:Array[String]): Unit = {
+//  def main(arg:Array[String]): Unit = {
  
-    println("Date: " + getDateTimeList())
-    println("Country: " + getCountryList())
-    println("City: " + getCityList())    
-}//end def main
+//     println("Date: " + getDateTimeList())
+//     println("Country: " + getCountryList())
+//     println("City: " + getCityList())    
+// }//end def main
 
 }//end object Generator

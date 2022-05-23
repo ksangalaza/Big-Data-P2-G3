@@ -4,7 +4,7 @@ import java.util.Scanner
 import scala.collection.mutable.ArrayBuffer
 import scala.util.Random
 
-object  TailGenerator{
+class TailGenerator{
 
     // This is Site from where order was placed
     def getEcommerceWebsiteName(): String = {
@@ -48,7 +48,7 @@ object  TailGenerator{
         var yProb = 0.85
         var num = 0
 
-        if (makeDecimal =< yProb){
+        if (makeDecimal <= yProb){
             num = 0
         }else{
             num = 1
@@ -76,24 +76,24 @@ object  TailGenerator{
         return failureArray(rndNum)
     }
 
-    def main(args: Array[String]): Unit ={
-        val file = new File("test.csv")
-        val fw = new FileWriter(file)
-        for (i <- 0 to 99){
-            var webName = getEcommerceWebsiteName()
-            var confirmId = getPaymentTxnId()
-            var paymentSuccess = getPaymentTxnSuccess()
-            var failureMessage = getFailureReason()
-            if(paymentSuccess == "N"){
-                fw.write(webName + ", " + confirmId  + ", " + paymentSuccess + ", " + failureMessage + "\n")
-            }else{
-                fw.write(webName + ", " + confirmId + ", " + paymentSuccess + "\n")
-            }
+//     def main(args: Array[String]): Unit ={
+//         val file = new File("test.csv")
+//         val fw = new FileWriter(file)
+//         for (i <- 0 to 99){
+//             var webName = getEcommerceWebsiteName()
+//             var confirmId = getPaymentTxnId()
+//             var paymentSuccess = getPaymentTxnSuccess()
+//             var failureMessage = getFailureReason()
+//             if(paymentSuccess == "N"){
+//                 fw.write(webName + ", " + confirmId  + ", " + paymentSuccess + ", " + failureMessage + "\n")
+//             }else{
+//                 fw.write(webName + ", " + confirmId + ", " + paymentSuccess + "\n")
+//             }
 
-        }
-        fw.close
+//         }
+//         fw.close
 
-    }
+//     }
 
 
 

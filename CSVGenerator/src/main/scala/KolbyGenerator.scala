@@ -3,7 +3,7 @@ import java.io.File
 import java.util.Scanner
 import scala.collection.mutable.ArrayBuffer
 
-object KolbyGenerator {
+class KolbyGenerator {
     
     def getOrderId(): Int = {
         val OrderId = new scala.util.Random
@@ -36,9 +36,9 @@ object KolbyGenerator {
     }
 
    
-     def main(args: Array[String]): Unit = {
-         println("Order ID: " + getOrderId())
-         println("Customer ID: " + getCustomerId())
-         println("Customer Name: " + getCustomerName())
-    }
+    //  def main(args: Array[String]): Unit = {
+    //      println("Order ID: " + getOrderId())
+    //      println("Customer ID: " + getCustomerId())
+    //      println("Customer Name: " + getCustomerName())
+    // }
 }

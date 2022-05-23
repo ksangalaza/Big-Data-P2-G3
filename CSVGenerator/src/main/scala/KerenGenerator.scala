@@ -7,21 +7,21 @@ import scala.io.Source
 import scala.collection.mutable.ArrayBuffer
 
 
-object KerenGenerator{
-     def main(args:Array[String]): Unit = {
-     var in = new File("ProductIdNameCategory.csv") 
-     var sc = new Scanner(in)
-    //  var out = new File("output.csv")
-    //  var fw = new FileWriter(out, true)
+class KerenGenerator{
+    //  def main(args:Array[String]): Unit = {
+    //  var in = new File("ProductIdNameCategory.csv") 
+    //  var sc = new Scanner(in)
+    // //  var out = new File("output.csv")
+    // //  var fw = new FileWriter(out, true)
 
-     var line = sc.nextLine()
-     println("Product Name: " + getProductName(sc)) 
-     println("Product ID: " + getProductId(sc))
-     println("Product Category: " + getProductCategory(sc))
+    //  var line = sc.nextLine()
+    //  println("Product Name: " + getProductName(sc)) 
+    //  println("Product ID: " + getProductId(sc))
+    //  println("Product Category: " + getProductCategory(sc))
 
      
 
-        }
+    //     }
     def getProductId(sc: Scanner): Int = {
         val ProductIDArray = new ArrayBuffer[Int]()
         val randID = new Random() 
