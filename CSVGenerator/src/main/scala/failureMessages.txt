@@ -1,0 +1,10 @@
+Incorrect PIN
+Possible Fraudulent Activity
+Bad Terminal Access
+Bad Connection
+Incorrect Billing Address
+Credit Limit Reached
+Insufficient Funds
+Wrong CVV
+Incorrect Zip Code
+Incorrect Security Code
