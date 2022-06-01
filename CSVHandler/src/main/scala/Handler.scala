@@ -34,7 +34,7 @@ object Handler{
             }
         }
         sc.close()
-        file3.close()
+        // file3.close()
 
     }
 

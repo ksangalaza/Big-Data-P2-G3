@@ -1,0 +1,645 @@
+PRODUCT_NAME,PCOUNT,PRODUCT_CAT,COUNTRY,DATETIME
+Advil,7,Health,Brazil,2022-01-23 10:33
+Bed,13,Home Appliances,Brazil,2022-01-23 10:33
+Couch,14,Home Appliances,Brazil,2022-01-23 10:33
+Dress,10,Clothing,Brazil,2022-01-23 10:33
+Hoe,16,Gardening,Brazil,2022-01-23 10:33
+Nyquill,11,Health,Brazil,2022-01-23 10:33
+PC,14,Technology,Brazil,2022-01-23 10:33
+Plants,16,Gardening,Brazil,2022-01-23 10:33
+Rake,10,Gardening,Brazil,2022-01-23 10:33
+Shirt,13,Clothing,Brazil,2022-01-23 10:33
+Shoes,12,Clothing,Brazil,2022-01-23 10:33
+Table,8,Home Appliances,Brazil,2022-01-23 10:33
+Tablet,7,Technology,Brazil,2022-01-23 10:33
+Tylenol,12,Health,Brazil,2022-01-23 10:33
+Undefined,11,Home Appliances,Brazil,2022-01-23 10:33
+Wires,16,Technology,Brazil,2022-01-23 10:33
+Advil,18,Health,China,2022-01-23 10:33
+Bed,22,Home Appliances,China,2022-01-23 10:33
+Couch,10,Home Appliances,China,2022-01-23 10:33
+Dress,9,Clothing,China,2022-01-23 10:33
+Hoe,12,Gardening,China,2022-01-23 10:33
+Nyquill,8,Health,China,2022-01-23 10:33
+PC,9,Technology,China,2022-01-23 10:33
+Plants,15,Gardening,China,2022-01-23 10:33
+Rake,14,Gardening,China,2022-01-23 10:33
+Shirt,16,Clothing,China,2022-01-23 10:33
+Shoes,17,Clothing,China,2022-01-23 10:33
+Table,9,Home Appliances,China,2022-01-23 10:33
+Tablet,14,Technology,China,2022-01-23 10:33
+Tylenol,11,Health,China,2022-01-23 10:33
+Undefined,12,Technology,China,2022-01-23 10:33
+Wires,17,Technology,China,2022-01-23 10:33
+Advil,12,Health,France,2022-01-23 10:33
+Bed,11,Home Appliances,France,2022-01-23 10:33
+Couch,21,Home Appliances,France,2022-01-23 10:33
+Dress,13,Clothing,France,2022-01-23 10:33
+Hoe,12,Gardening,France,2022-01-23 10:33
+Nyquill,14,Health,France,2022-01-23 10:33
+PC,11,Technology,France,2022-01-23 10:33
+Plants,13,Gardening,France,2022-01-23 10:33
+Rake,12,Gardening,France,2022-01-23 10:33
+Shirt,13,Clothing,France,2022-01-23 10:33
+Shoes,18,Clothing,France,2022-01-23 10:33
+Table,19,Home Appliances,France,2022-01-23 10:33
+Tablet,6,Technology,France,2022-01-23 10:33
+Tylenol,19,Health,France,2022-01-23 10:33
+Undefined,9,Technology,France,2022-01-23 10:33
+Wires,14,Technology,France,2022-01-23 10:33
+Advil,19,Health,Germany,2022-01-23 10:33
+Bed,13,Home Appliances,Germany,2022-01-23 10:33
+Couch,15,Home Appliances,Germany,2022-01-23 10:33
+Dress,17,Clothing,Germany,2022-01-23 10:33
+Hoe,10,Gardening,Germany,2022-01-23 10:33
+Nyquill,15,Health,Germany,2022-01-23 10:33
+PC,19,Technology,Germany,2022-01-23 10:33
+Plants,18,Gardening,Germany,2022-01-23 10:33
+Rake,19,Gardening,Germany,2022-01-23 10:33
+Shirt,14,Clothing,Germany,2022-01-23 10:33
+Shoes,15,Clothing,Germany,2022-01-23 10:33
+Table,13,Home Appliances,Germany,2022-01-23 10:33
+Tablet,14,Technology,Germany,2022-01-23 10:33
+Tylenol,11,Health,Germany,2022-01-23 10:33
+Undefined,16,Home Appliances,Germany,2022-01-23 10:33
+Wires,11,Technology,Germany,2022-01-23 10:33
+Advil,16,Health,India,2022-01-23 10:33
+Bed,15,Home Appliances,India,2022-01-23 10:33
+Couch,13,Home Appliances,India,2022-01-23 10:33
+Dress,14,Clothing,India,2022-01-23 10:33
+Hoe,19,Gardening,India,2022-01-23 10:33
+Nyquill,14,Health,India,2022-01-23 10:33
+PC,17,Technology,India,2022-01-23 10:33
+Plants,21,Gardening,India,2022-01-23 10:33
+Rake,15,Gardening,India,2022-01-23 10:33
+Shirt,15,Clothing,India,2022-01-23 10:33
+Shoes,7,Clothing,India,2022-01-23 10:33
+Table,9,Home Appliances,India,2022-01-23 10:33
+Tablet,17,Technology,India,2022-01-23 10:33
+Tylenol,11,Health,India,2022-01-23 10:33
+Undefined,8,Home Appliances,India,2022-01-23 10:33
+Wires,19,Technology,India,2022-01-23 10:33
+Advil,15,Health,Italy,2022-01-23 10:33
+Bed,11,Home Appliances,Italy,2022-01-23 10:33
+Couch,11,Home Appliances,Italy,2022-01-23 10:33
+Dress,11,Clothing,Italy,2022-01-23 10:33
+Hoe,16,Gardening,Italy,2022-01-23 10:33
+Nyquill,17,Health,Italy,2022-01-23 10:33
+PC,8,Technology,Italy,2022-01-23 10:33
+Plants,10,Gardening,Italy,2022-01-23 10:33
+Rake,9,Gardening,Italy,2022-01-23 10:33
+Shirt,12,Clothing,Italy,2022-01-23 10:33
+Shoes,11,Clothing,Italy,2022-01-23 10:33
+Table,12,Home Appliances,Italy,2022-01-23 10:33
+Tablet,8,Technology,Italy,2022-01-23 10:33
+Tylenol,9,Health,Italy,2022-01-23 10:33
+Undefined,11,Home Appliances,Italy,2022-01-23 10:33
+Wires,17,Technology,Italy,2022-01-23 10:33
+Advil,10,Health,Japan,2022-01-23 10:33
+Bed,16,Home Appliances,Japan,2022-01-23 10:33
+Couch,7,Home Appliances,Japan,2022-01-23 10:33
+Dress,12,Clothing,Japan,2022-01-23 10:33
+Hoe,11,Gardening,Japan,2022-01-23 10:33
+Nyquill,6,Health,Japan,2022-01-23 10:33
+PC,8,Technology,Japan,2022-01-23 10:33
+Plants,14,Gardening,Japan,2022-01-23 10:33
+Rake,7,Gardening,Japan,2022-01-23 10:33
+Shirt,13,Clothing,Japan,2022-01-23 10:33
+Shoes,10,Clothing,Japan,2022-01-23 10:33
+Table,9,Home Appliances,Japan,2022-01-23 10:33
+Tablet,13,Technology,Japan,2022-01-23 10:33
+Tylenol,10,Health,Japan,2022-01-23 10:33
+Undefined,12,Home Appliances,Japan,2022-01-23 10:33
+Wires,14,Technology,Japan,2022-01-23 10:33
+Advil,18,Health,Mexico,2022-01-23 10:33
+Bed,9,Home Appliances,Mexico,2022-01-23 10:33
+Couch,20,Home Appliances,Mexico,2022-01-23 10:33
+Dress,13,Clothing,Mexico,2022-01-23 10:33
+Hoe,14,Gardening,Mexico,2022-01-23 10:33
+Nyquill,18,Health,Mexico,2022-01-23 10:33
+PC,18,Technology,Mexico,2022-01-23 10:33
+Plants,9,Gardening,Mexico,2022-01-23 10:33
+Rake,12,Gardening,Mexico,2022-01-23 10:33
+Shirt,13,Clothing,Mexico,2022-01-23 10:33
+Shoes,19,Clothing,Mexico,2022-01-23 10:33
+Table,17,Home Appliances,Mexico,2022-01-23 10:33
+Tablet,10,Technology,Mexico,2022-01-23 10:33
+Tylenol,17,Health,Mexico,2022-01-23 10:33
+Undefined,12,Technology,Mexico,2022-01-23 10:33
+Wires,16,Technology,Mexico,2022-01-23 10:33
+Advil,10,Health,South Korea,2022-01-23 10:33
+Bed,10,Home Appliances,South Korea,2022-01-23 10:33
+Couch,15,Home Appliances,South Korea,2022-01-23 10:33
+Dress,2,Clothing,South Korea,2022-01-23 10:33
+Hoe,20,Gardening,South Korea,2022-01-23 10:33
+Nyquill,11,Health,South Korea,2022-01-23 10:33
+PC,13,Technology,South Korea,2022-01-23 10:33
+Plants,9,Gardening,South Korea,2022-01-23 10:33
+Rake,12,Gardening,South Korea,2022-01-23 10:33
+Shirt,8,Clothing,South Korea,2022-01-23 10:33
+Shoes,9,Clothing,South Korea,2022-01-23 10:33
+Table,18,Home Appliances,South Korea,2022-01-23 10:33
+Tablet,13,Technology,South Korea,2022-01-23 10:33
+Tylenol,16,Health,South Korea,2022-01-23 10:33
+Undefined,12,Technology,South Korea,2022-01-23 10:33
+Wires,14,Technology,South Korea,2022-01-23 10:33
+Advil,32,Health,United States,2022-01-23 10:33
+Bed,35,Home Appliances,United States,2022-01-23 10:33
+Couch,19,Home Appliances,United States,2022-01-23 10:33
+Dress,32,Clothing,United States,2022-01-23 10:33
+Hoe,25,Gardening,United States,2022-01-23 10:33
+Nyquill,20,Health,United States,2022-01-23 10:33
+PC,20,Technology,United States,2022-01-23 10:33
+Plants,28,Gardening,United States,2022-01-23 10:33
+Rake,25,Gardening,United States,2022-01-23 10:33
+Shirt,27,Clothing,United States,2022-01-23 10:33
+Shoes,25,Clothing,United States,2022-01-23 10:33
+Table,18,Home Appliances,United States,2022-01-23 10:33
+Tablet,19,Technology,United States,2022-01-23 10:33
+Tylenol,25,Health,United States,2022-01-23 10:33
+Undefined,21,Home Appliances,United States,2022-01-23 10:33
+Wires,24,Technology,United States,2022-01-23 10:33
+Advil,20,Health,Brazil,2022-04-07 9:30
+Bed,17,Home Appliances,Brazil,2022-04-07 9:30
+Couch,16,Home Appliances,Brazil,2022-04-07 9:30
+Dress,14,Clothing,Brazil,2022-04-07 9:30
+Hoe,10,Gardening,Brazil,2022-04-07 9:30
+Nyquill,17,Health,Brazil,2022-04-07 9:30
+PC,8,Technology,Brazil,2022-04-07 9:30
+Plants,9,Gardening,Brazil,2022-04-07 9:30
+Rake,12,Gardening,Brazil,2022-04-07 9:30
+Shirt,7,Clothing,Brazil,2022-04-07 9:30
+Shoes,16,Clothing,Brazil,2022-04-07 9:30
+Table,13,Home Appliances,Brazil,2022-04-07 9:30
+Tablet,10,Technology,Brazil,2022-04-07 9:30
+Tylenol,15,Health,Brazil,2022-04-07 9:30
+Undefined,11,Technology,Brazil,2022-04-07 9:30
+Wires,16,Technology,Brazil,2022-04-07 9:30
+Advil,19,Health,China,2022-04-07 9:30
+Bed,15,Home Appliances,China,2022-04-07 9:30
+Couch,8,Home Appliances,China,2022-04-07 9:30
+Dress,8,Clothing,China,2022-04-07 9:30
+Hoe,13,Gardening,China,2022-04-07 9:30
+Nyquill,11,Health,China,2022-04-07 9:30
+PC,9,Technology,China,2022-04-07 9:30
+Plants,20,Gardening,China,2022-04-07 9:30
+Rake,8,Gardening,China,2022-04-07 9:30
+Shirt,14,Clothing,China,2022-04-07 9:30
+Shoes,15,Clothing,China,2022-04-07 9:30
+Table,13,Home Appliances,China,2022-04-07 9:30
+Tablet,12,Technology,China,2022-04-07 9:30
+Tylenol,11,Health,China,2022-04-07 9:30
+Undefined,10,Technology,China,2022-04-07 9:30
+Wires,16,Technology,China,2022-04-07 9:30
+Advil,17,Health,France,2022-04-07 9:30
+Bed,16,Home Appliances,France,2022-04-07 9:30
+Couch,9,Home Appliances,France,2022-04-07 9:30
+Dress,16,Clothing,France,2022-04-07 9:30
+Hoe,13,Gardening,France,2022-04-07 9:30
+Nyquill,15,Health,France,2022-04-07 9:30
+PC,18,Technology,France,2022-04-07 9:30
+Plants,11,Gardening,France,2022-04-07 9:30
+Rake,19,Gardening,France,2022-04-07 9:30
+Shirt,14,Clothing,France,2022-04-07 9:30
+Shoes,18,Clothing,France,2022-04-07 9:30
+Table,15,Home Appliances,France,2022-04-07 9:30
+Tablet,17,Technology,France,2022-04-07 9:30
+Tylenol,13,Health,France,2022-04-07 9:30
+Undefined,12,Technology,France,2022-04-07 9:30
+Wires,14,Technology,France,2022-04-07 9:30
+Advil,21,Health,Germany,2022-04-07 9:30
+Bed,16,Home Appliances,Germany,2022-04-07 9:30
+Couch,13,Home Appliances,Germany,2022-04-07 9:30
+Dress,17,Clothing,Germany,2022-04-07 9:30
+Hoe,16,Gardening,Germany,2022-04-07 9:30
+Nyquill,15,Health,Germany,2022-04-07 9:30
+PC,16,Technology,Germany,2022-04-07 9:30
+Plants,14,Gardening,Germany,2022-04-07 9:30
+Rake,13,Gardening,Germany,2022-04-07 9:30
+Shirt,10,Clothing,Germany,2022-04-07 9:30
+Shoes,18,Clothing,Germany,2022-04-07 9:30
+Table,16,Home Appliances,Germany,2022-04-07 9:30
+Tablet,14,Technology,Germany,2022-04-07 9:30
+Tylenol,17,Health,Germany,2022-04-07 9:30
+Undefined,18,Home Appliances,Germany,2022-04-07 9:30
+Wires,14,Technology,Germany,2022-04-07 9:30
+Advil,13,Health,India,2022-04-07 9:30
+Bed,14,Home Appliances,India,2022-04-07 9:30
+Couch,15,Home Appliances,India,2022-04-07 9:30
+Dress,20,Clothing,India,2022-04-07 9:30
+Hoe,10,Gardening,India,2022-04-07 9:30
+Nyquill,9,Health,India,2022-04-07 9:30
+PC,15,Technology,India,2022-04-07 9:30
+Plants,13,Gardening,India,2022-04-07 9:30
+Rake,13,Gardening,India,2022-04-07 9:30
+Shirt,16,Clothing,India,2022-04-07 9:30
+Shoes,16,Clothing,India,2022-04-07 9:30
+Table,16,Home Appliances,India,2022-04-07 9:30
+Tablet,15,Technology,India,2022-04-07 9:30
+Tylenol,16,Health,India,2022-04-07 9:30
+Undefined,12,Home Appliances,India,2022-04-07 9:30
+Wires,17,Technology,India,2022-04-07 9:30
+Advil,8,Health,Italy,2022-04-07 9:30
+Bed,9,Home Appliances,Italy,2022-04-07 9:30
+Couch,3,Home Appliances,Italy,2022-04-07 9:30
+Dress,16,Clothing,Italy,2022-04-07 9:30
+Hoe,15,Gardening,Italy,2022-04-07 9:30
+Nyquill,11,Health,Italy,2022-04-07 9:30
+PC,9,Technology,Italy,2022-04-07 9:30
+Plants,14,Gardening,Italy,2022-04-07 9:30
+Rake,9,Gardening,Italy,2022-04-07 9:30
+Shirt,7,Clothing,Italy,2022-04-07 9:30
+Shoes,10,Clothing,Italy,2022-04-07 9:30
+Table,10,Home Appliances,Italy,2022-04-07 9:30
+Tablet,21,Technology,Italy,2022-04-07 9:30
+Tylenol,18,Health,Italy,2022-04-07 9:30
+Undefined,16,Home Appliances,Italy,2022-04-07 9:30
+Wires,9,Technology,Italy,2022-04-07 9:30
+Advil,15,Health,Japan,2022-04-07 9:30
+Bed,15,Home Appliances,Japan,2022-04-07 9:30
+Couch,9,Home Appliances,Japan,2022-04-07 9:30
+Dress,14,Clothing,Japan,2022-04-07 9:30
+Hoe,13,Gardening,Japan,2022-04-07 9:30
+Nyquill,14,Health,Japan,2022-04-07 9:30
+PC,4,Technology,Japan,2022-04-07 9:30
+Plants,8,Gardening,Japan,2022-04-07 9:30
+Rake,8,Gardening,Japan,2022-04-07 9:30
+Shirt,10,Clothing,Japan,2022-04-07 9:30
+Shoes,14,Clothing,Japan,2022-04-07 9:30
+Table,12,Home Appliances,Japan,2022-04-07 9:30
+Tablet,9,Technology,Japan,2022-04-07 9:30
+Tylenol,7,Health,Japan,2022-04-07 9:30
+Undefined,12,Home Appliances,Japan,2022-04-07 9:30
+Wires,8,Technology,Japan,2022-04-07 9:30
+Advil,13,Health,Mexico,2022-04-07 9:30
+Bed,9,Home Appliances,Mexico,2022-04-07 9:30
+Couch,12,Home Appliances,Mexico,2022-04-07 9:30
+Dress,17,Clothing,Mexico,2022-04-07 9:30
+Hoe,12,Gardening,Mexico,2022-04-07 9:30
+Nyquill,11,Health,Mexico,2022-04-07 9:30
+PC,22,Technology,Mexico,2022-04-07 9:30
+Plants,9,Gardening,Mexico,2022-04-07 9:30
+Rake,11,Gardening,Mexico,2022-04-07 9:30
+Shirt,20,Clothing,Mexico,2022-04-07 9:30
+Shoes,20,Clothing,Mexico,2022-04-07 9:30
+Table,13,Home Appliances,Mexico,2022-04-07 9:30
+Tablet,21,Technology,Mexico,2022-04-07 9:30
+Tylenol,19,Health,Mexico,2022-04-07 9:30
+Undefined,11,Technology,Mexico,2022-04-07 9:30
+Wires,16,Technology,Mexico,2022-04-07 9:30
+Advil,12,Health,South Korea,2022-04-07 9:30
+Bed,14,Home Appliances,South Korea,2022-04-07 9:30
+Couch,10,Home Appliances,South Korea,2022-04-07 9:30
+Dress,13,Clothing,South Korea,2022-04-07 9:30
+Hoe,11,Gardening,South Korea,2022-04-07 9:30
+Nyquill,10,Health,South Korea,2022-04-07 9:30
+PC,16,Technology,South Korea,2022-04-07 9:30
+Plants,13,Gardening,South Korea,2022-04-07 9:30
+Rake,8,Gardening,South Korea,2022-04-07 9:30
+Shirt,10,Clothing,South Korea,2022-04-07 9:30
+Shoes,9,Clothing,South Korea,2022-04-07 9:30
+Table,13,Home Appliances,South Korea,2022-04-07 9:30
+Tablet,10,Technology,South Korea,2022-04-07 9:30
+Tylenol,10,Health,South Korea,2022-04-07 9:30
+Undefined,11,Home Appliances,South Korea,2022-04-07 9:30
+Wires,14,Technology,South Korea,2022-04-07 9:30
+Advil,28,Health,United States,2022-04-07 9:30
+Bed,33,Home Appliances,United States,2022-04-07 9:30
+Couch,34,Home Appliances,United States,2022-04-07 9:30
+Dress,28,Clothing,United States,2022-04-07 9:30
+Hoe,28,Gardening,United States,2022-04-07 9:30
+Nyquill,34,Health,United States,2022-04-07 9:30
+PC,22,Technology,United States,2022-04-07 9:30
+Plants,30,Gardening,United States,2022-04-07 9:30
+Rake,23,Gardening,United States,2022-04-07 9:30
+Shirt,20,Clothing,United States,2022-04-07 9:30
+Shoes,24,Clothing,United States,2022-04-07 9:30
+Table,31,Home Appliances,United States,2022-04-07 9:30
+Tablet,27,Technology,United States,2022-04-07 9:30
+Tylenol,26,Health,United States,2022-04-07 9:30
+Undefined,23,Home Appliances,United States,2022-04-07 9:30
+Wires,26,Technology,United States,2022-04-07 9:30
+Advil,10,Health,Brazil,2022-05-18 02:33
+Bed,13,Home Appliances,Brazil,2022-05-18 02:33
+Couch,6,Home Appliances,Brazil,2022-05-18 02:33
+Dress,14,Clothing,Brazil,2022-05-18 02:33
+Hoe,13,Gardening,Brazil,2022-05-18 02:33
+Nyquill,8,Health,Brazil,2022-05-18 02:33
+PC,15,Technology,Brazil,2022-05-18 02:33
+Plants,13,Gardening,Brazil,2022-05-18 02:33
+Rake,10,Gardening,Brazil,2022-05-18 02:33
+Shirt,15,Clothing,Brazil,2022-05-18 02:33
+Shoes,14,Clothing,Brazil,2022-05-18 02:33
+Table,7,Home Appliances,Brazil,2022-05-18 02:33
+Tablet,14,Technology,Brazil,2022-05-18 02:33
+Tylenol,12,Health,Brazil,2022-05-18 02:33
+Undefined,13,Technology,Brazil,2022-05-18 02:33
+Wires,10,Technology,Brazil,2022-05-18 02:33
+Advil,13,Health,China,2022-05-18 02:33
+Bed,15,Home Appliances,China,2022-05-18 02:33
+Couch,12,Home Appliances,China,2022-05-18 02:33
+Dress,14,Clothing,China,2022-05-18 02:33
+Hoe,9,Gardening,China,2022-05-18 02:33
+Nyquill,14,Health,China,2022-05-18 02:33
+PC,12,Technology,China,2022-05-18 02:33
+Plants,7,Gardening,China,2022-05-18 02:33
+Rake,10,Gardening,China,2022-05-18 02:33
+Shirt,5,Clothing,China,2022-05-18 02:33
+Shoes,13,Clothing,China,2022-05-18 02:33
+Table,14,Home Appliances,China,2022-05-18 02:33
+Tablet,11,Technology,China,2022-05-18 02:33
+Tylenol,9,Health,China,2022-05-18 02:33
+Undefined,10,Home Appliances,China,2022-05-18 02:33
+Wires,16,Technology,China,2022-05-18 02:33
+Advil,14,Health,France,2022-05-18 02:33
+Bed,16,Home Appliances,France,2022-05-18 02:33
+Couch,12,Home Appliances,France,2022-05-18 02:33
+Dress,14,Clothing,France,2022-05-18 02:33
+Hoe,15,Gardening,France,2022-05-18 02:33
+Nyquill,16,Health,France,2022-05-18 02:33
+PC,13,Technology,France,2022-05-18 02:33
+Plants,14,Gardening,France,2022-05-18 02:33
+Rake,26,Gardening,France,2022-05-18 02:33
+Shirt,21,Clothing,France,2022-05-18 02:33
+Shoes,22,Clothing,France,2022-05-18 02:33
+Table,9,Home Appliances,France,2022-05-18 02:33
+Tablet,13,Technology,France,2022-05-18 02:33
+Tylenol,19,Health,France,2022-05-18 02:33
+Undefined,11,Technology,France,2022-05-18 02:33
+Undefined,11,Home Appliances,France,2022-05-18 02:33
+Wires,12,Technology,France,2022-05-18 02:33
+Advil,22,Health,Germany,2022-05-18 02:33
+Bed,14,Home Appliances,Germany,2022-05-18 02:33
+Couch,16,Home Appliances,Germany,2022-05-18 02:33
+Dress,13,Clothing,Germany,2022-05-18 02:33
+Hoe,15,Gardening,Germany,2022-05-18 02:33
+Nyquill,15,Health,Germany,2022-05-18 02:33
+PC,17,Technology,Germany,2022-05-18 02:33
+Plants,20,Gardening,Germany,2022-05-18 02:33
+Rake,17,Gardening,Germany,2022-05-18 02:33
+Shirt,21,Clothing,Germany,2022-05-18 02:33
+Shoes,15,Clothing,Germany,2022-05-18 02:33
+Table,9,Home Appliances,Germany,2022-05-18 02:33
+Tablet,18,Technology,Germany,2022-05-18 02:33
+Tylenol,16,Health,Germany,2022-05-18 02:33
+Undefined,16,Technology,Germany,2022-05-18 02:33
+Wires,12,Technology,Germany,2022-05-18 02:33
+Advil,12,Health,India,2022-05-18 02:33
+Bed,14,Home Appliances,India,2022-05-18 02:33
+Couch,12,Home Appliances,India,2022-05-18 02:33
+Dress,11,Clothing,India,2022-05-18 02:33
+Hoe,8,Gardening,India,2022-05-18 02:33
+Nyquill,18,Health,India,2022-05-18 02:33
+PC,18,Technology,India,2022-05-18 02:33
+Plants,8,Gardening,India,2022-05-18 02:33
+Rake,13,Gardening,India,2022-05-18 02:33
+Shirt,10,Clothing,India,2022-05-18 02:33
+Shoes,12,Clothing,India,2022-05-18 02:33
+Table,12,Home Appliances,India,2022-05-18 02:33
+Tablet,20,Technology,India,2022-05-18 02:33
+Tylenol,17,Health,India,2022-05-18 02:33
+Undefined,15,Technology,India,2022-05-18 02:33
+Wires,12,Technology,India,2022-05-18 02:33
+Advil,13,Health,Italy,2022-05-18 02:33
+Bed,8,Home Appliances,Italy,2022-05-18 02:33
+Couch,11,Home Appliances,Italy,2022-05-18 02:33
+Dress,12,Clothing,Italy,2022-05-18 02:33
+Hoe,11,Gardening,Italy,2022-05-18 02:33
+Nyquill,13,Health,Italy,2022-05-18 02:33
+PC,12,Technology,Italy,2022-05-18 02:33
+Plants,17,Gardening,Italy,2022-05-18 02:33
+Rake,11,Gardening,Italy,2022-05-18 02:33
+Shirt,16,Clothing,Italy,2022-05-18 02:33
+Shoes,7,Clothing,Italy,2022-05-18 02:33
+Table,9,Home Appliances,Italy,2022-05-18 02:33
+Tablet,19,Technology,Italy,2022-05-18 02:33
+Tylenol,13,Health,Italy,2022-05-18 02:33
+Undefined,11,Technology,Italy,2022-05-18 02:33
+Wires,13,Technology,Italy,2022-05-18 02:33
+Advil,12,Health,Japan,2022-05-18 02:33
+Bed,11,Home Appliances,Japan,2022-05-18 02:33
+Couch,9,Home Appliances,Japan,2022-05-18 02:33
+Dress,6,Clothing,Japan,2022-05-18 02:33
+Hoe,17,Gardening,Japan,2022-05-18 02:33
+Nyquill,9,Health,Japan,2022-05-18 02:33
+PC,11,Technology,Japan,2022-05-18 02:33
+Plants,13,Gardening,Japan,2022-05-18 02:33
+Rake,5,Gardening,Japan,2022-05-18 02:33
+Shirt,14,Clothing,Japan,2022-05-18 02:33
+Shoes,9,Clothing,Japan,2022-05-18 02:33
+Table,7,Home Appliances,Japan,2022-05-18 02:33
+Tablet,11,Technology,Japan,2022-05-18 02:33
+Tylenol,12,Health,Japan,2022-05-18 02:33
+Undefined,16,Technology,Japan,2022-05-18 02:33
+Wires,10,Technology,Japan,2022-05-18 02:33
+Advil,15,Health,Mexico,2022-05-18 02:33
+Bed,22,Home Appliances,Mexico,2022-05-18 02:33
+Couch,18,Home Appliances,Mexico,2022-05-18 02:33
+Dress,15,Clothing,Mexico,2022-05-18 02:33
+Hoe,16,Gardening,Mexico,2022-05-18 02:33
+Nyquill,18,Health,Mexico,2022-05-18 02:33
+PC,20,Technology,Mexico,2022-05-18 02:33
+Plants,16,Gardening,Mexico,2022-05-18 02:33
+Rake,13,Gardening,Mexico,2022-05-18 02:33
+Shirt,17,Clothing,Mexico,2022-05-18 02:33
+Shoes,17,Clothing,Mexico,2022-05-18 02:33
+Table,14,Home Appliances,Mexico,2022-05-18 02:33
+Tablet,14,Technology,Mexico,2022-05-18 02:33
+Tylenol,18,Health,Mexico,2022-05-18 02:33
+Undefined,10,Technology,Mexico,2022-05-18 02:33
+Wires,16,Technology,Mexico,2022-05-18 02:33
+Advil,13,Health,South Korea,2022-05-18 02:33
+Bed,23,Home Appliances,South Korea,2022-05-18 02:33
+Couch,11,Home Appliances,South Korea,2022-05-18 02:33
+Dress,8,Clothing,South Korea,2022-05-18 02:33
+Hoe,5,Gardening,South Korea,2022-05-18 02:33
+Nyquill,9,Health,South Korea,2022-05-18 02:33
+PC,16,Technology,South Korea,2022-05-18 02:33
+Plants,16,Gardening,South Korea,2022-05-18 02:33
+Rake,19,Gardening,South Korea,2022-05-18 02:33
+Shirt,9,Clothing,South Korea,2022-05-18 02:33
+Shoes,13,Clothing,South Korea,2022-05-18 02:33
+Table,20,Home Appliances,South Korea,2022-05-18 02:33
+Tablet,17,Technology,South Korea,2022-05-18 02:33
+Tylenol,14,Health,South Korea,2022-05-18 02:33
+Undefined,11,Technology,South Korea,2022-05-18 02:33
+Undefined,11,Home Appliances,South Korea,2022-05-18 02:33
+Wires,12,Technology,South Korea,2022-05-18 02:33
+Advil,20,Health,United States,2022-05-18 02:33
+Bed,37,Home Appliances,United States,2022-05-18 02:33
+Couch,29,Home Appliances,United States,2022-05-18 02:33
+Dress,22,Clothing,United States,2022-05-18 02:33
+Hoe,26,Gardening,United States,2022-05-18 02:33
+Nyquill,30,Health,United States,2022-05-18 02:33
+PC,33,Technology,United States,2022-05-18 02:33
+Plants,27,Gardening,United States,2022-05-18 02:33
+Rake,36,Gardening,United States,2022-05-18 02:33
+Shirt,31,Clothing,United States,2022-05-18 02:33
+Shoes,36,Clothing,United States,2022-05-18 02:33
+Table,29,Home Appliances,United States,2022-05-18 02:33
+Tablet,29,Technology,United States,2022-05-18 02:33
+Tylenol,34,Health,United States,2022-05-18 02:33
+Undefined,22,Home Appliances,United States,2022-05-18 02:33
+Wires,33,Technology,United States,2022-05-18 02:33
+Advil,11,Health,Brazil,2022-06-23 05:15
+Bed,6,Home Appliances,Brazil,2022-06-23 05:15
+Couch,6,Home Appliances,Brazil,2022-06-23 05:15
+Dress,10,Clothing,Brazil,2022-06-23 05:15
+Hoe,13,Gardening,Brazil,2022-06-23 05:15
+Nyquill,9,Health,Brazil,2022-06-23 05:15
+PC,12,Technology,Brazil,2022-06-23 05:15
+Plants,13,Gardening,Brazil,2022-06-23 05:15
+Rake,7,Gardening,Brazil,2022-06-23 05:15
+Shirt,10,Clothing,Brazil,2022-06-23 05:15
+Shoes,12,Clothing,Brazil,2022-06-23 05:15
+Table,7,Home Appliances,Brazil,2022-06-23 05:15
+Tablet,15,Technology,Brazil,2022-06-23 05:15
+Tylenol,13,Health,Brazil,2022-06-23 05:15
+Undefined,9,Technology,Brazil,2022-06-23 05:15
+Wires,14,Technology,Brazil,2022-06-23 05:15
+Advil,9,Health,China,2022-06-23 05:15
+Bed,14,Home Appliances,China,2022-06-23 05:15
+Couch,9,Home Appliances,China,2022-06-23 05:15
+Dress,5,Clothing,China,2022-06-23 05:15
+Hoe,12,Gardening,China,2022-06-23 05:15
+Nyquill,18,Health,China,2022-06-23 05:15
+PC,9,Technology,China,2022-06-23 05:15
+Plants,14,Gardening,China,2022-06-23 05:15
+Rake,6,Gardening,China,2022-06-23 05:15
+Shirt,15,Clothing,China,2022-06-23 05:15
+Shoes,20,Clothing,China,2022-06-23 05:15
+Table,9,Home Appliances,China,2022-06-23 05:15
+Tablet,10,Technology,China,2022-06-23 05:15
+Tylenol,8,Health,China,2022-06-23 05:15
+Undefined,10,Technology,China,2022-06-23 05:15
+Undefined,10,Home Appliances,China,2022-06-23 05:15
+Wires,15,Technology,China,2022-06-23 05:15
+Advil,11,Health,France,2022-06-23 05:15
+Bed,16,Home Appliances,France,2022-06-23 05:15
+Couch,14,Home Appliances,France,2022-06-23 05:15
+Dress,11,Clothing,France,2022-06-23 05:15
+Hoe,11,Gardening,France,2022-06-23 05:15
+Nyquill,24,Health,France,2022-06-23 05:15
+PC,12,Technology,France,2022-06-23 05:15
+Plants,19,Gardening,France,2022-06-23 05:15
+Rake,13,Gardening,France,2022-06-23 05:15
+Shirt,20,Clothing,France,2022-06-23 05:15
+Shoes,11,Clothing,France,2022-06-23 05:15
+Table,13,Home Appliances,France,2022-06-23 05:15
+Tablet,9,Technology,France,2022-06-23 05:15
+Tylenol,16,Health,France,2022-06-23 05:15
+Undefined,13,Technology,France,2022-06-23 05:15
+Wires,10,Technology,France,2022-06-23 05:15
+Advil,20,Health,Germany,2022-06-23 05:15
+Bed,16,Home Appliances,Germany,2022-06-23 05:15
+Couch,16,Home Appliances,Germany,2022-06-23 05:15
+Dress,10,Clothing,Germany,2022-06-23 05:15
+Hoe,13,Gardening,Germany,2022-06-23 05:15
+Nyquill,14,Health,Germany,2022-06-23 05:15
+PC,13,Technology,Germany,2022-06-23 05:15
+Plants,20,Gardening,Germany,2022-06-23 05:15
+Rake,11,Gardening,Germany,2022-06-23 05:15
+Shirt,11,Clothing,Germany,2022-06-23 05:15
+Shoes,15,Clothing,Germany,2022-06-23 05:15
+Table,16,Home Appliances,Germany,2022-06-23 05:15
+Tablet,19,Technology,Germany,2022-06-23 05:15
+Tylenol,12,Health,Germany,2022-06-23 05:15
+Undefined,13,Home Appliances,Germany,2022-06-23 05:15
+Wires,6,Technology,Germany,2022-06-23 05:15
+Advil,8,Health,India,2022-06-23 05:15
+Bed,18,Home Appliances,India,2022-06-23 05:15
+Couch,16,Home Appliances,India,2022-06-23 05:15
+Dress,16,Clothing,India,2022-06-23 05:15
+Hoe,11,Gardening,India,2022-06-23 05:15
+Nyquill,13,Health,India,2022-06-23 05:15
+PC,22,Technology,India,2022-06-23 05:15
+Plants,15,Gardening,India,2022-06-23 05:15
+Rake,16,Gardening,India,2022-06-23 05:15
+Shirt,15,Clothing,India,2022-06-23 05:15
+Shoes,17,Clothing,India,2022-06-23 05:15
+Table,21,Home Appliances,India,2022-06-23 05:15
+Tablet,18,Technology,India,2022-06-23 05:15
+Tylenol,10,Health,India,2022-06-23 05:15
+Undefined,15,Home Appliances,India,2022-06-23 05:15
+Undefined,15,Technology,India,2022-06-23 05:15
+Wires,16,Technology,India,2022-06-23 05:15
+Advil,15,Health,Italy,2022-06-23 05:15
+Bed,5,Home Appliances,Italy,2022-06-23 05:15
+Couch,17,Home Appliances,Italy,2022-06-23 05:15
+Dress,19,Clothing,Italy,2022-06-23 05:15
+Hoe,7,Gardening,Italy,2022-06-23 05:15
+Nyquill,13,Health,Italy,2022-06-23 05:15
+PC,12,Technology,Italy,2022-06-23 05:15
+Plants,9,Gardening,Italy,2022-06-23 05:15
+Rake,18,Gardening,Italy,2022-06-23 05:15
+Shirt,14,Clothing,Italy,2022-06-23 05:15
+Shoes,10,Clothing,Italy,2022-06-23 05:15
+Table,12,Home Appliances,Italy,2022-06-23 05:15
+Tablet,13,Technology,Italy,2022-06-23 05:15
+Tylenol,12,Health,Italy,2022-06-23 05:15
+Undefined,4,Technology,Italy,2022-06-23 05:15
+Wires,9,Technology,Italy,2022-06-23 05:15
+Advil,18,Health,Japan,2022-06-23 05:15
+Bed,16,Home Appliances,Japan,2022-06-23 05:15
+Couch,13,Home Appliances,Japan,2022-06-23 05:15
+Dress,15,Clothing,Japan,2022-06-23 05:15
+Hoe,11,Gardening,Japan,2022-06-23 05:15
+Nyquill,15,Health,Japan,2022-06-23 05:15
+PC,12,Technology,Japan,2022-06-23 05:15
+Plants,12,Gardening,Japan,2022-06-23 05:15
+Rake,11,Gardening,Japan,2022-06-23 05:15
+Shirt,11,Clothing,Japan,2022-06-23 05:15
+Shoes,7,Clothing,Japan,2022-06-23 05:15
+Table,6,Home Appliances,Japan,2022-06-23 05:15
+Tablet,11,Technology,Japan,2022-06-23 05:15
+Tylenol,16,Health,Japan,2022-06-23 05:15
+Undefined,10,Technology,Japan,2022-06-23 05:15
+Wires,14,Technology,Japan,2022-06-23 05:15
+Advil,19,Health,Mexico,2022-06-23 05:15
+Bed,12,Home Appliances,Mexico,2022-06-23 05:15
+Couch,12,Home Appliances,Mexico,2022-06-23 05:15
+Dress,18,Clothing,Mexico,2022-06-23 05:15
+Hoe,9,Gardening,Mexico,2022-06-23 05:15
+Nyquill,20,Health,Mexico,2022-06-23 05:15
+PC,14,Technology,Mexico,2022-06-23 05:15
+Plants,13,Gardening,Mexico,2022-06-23 05:15
+Rake,10,Gardening,Mexico,2022-06-23 05:15
+Shirt,10,Clothing,Mexico,2022-06-23 05:15
+Shoes,12,Clothing,Mexico,2022-06-23 05:15
+Table,24,Home Appliances,Mexico,2022-06-23 05:15
+Tablet,16,Technology,Mexico,2022-06-23 05:15
+Tylenol,15,Health,Mexico,2022-06-23 05:15
+Undefined,13,Home Appliances,Mexico,2022-06-23 05:15
+Wires,15,Technology,Mexico,2022-06-23 05:15
+Advil,16,Health,South Korea,2022-06-23 05:15
+Bed,4,Home Appliances,South Korea,2022-06-23 05:15
+Couch,12,Home Appliances,South Korea,2022-06-23 05:15
+Dress,16,Clothing,South Korea,2022-06-23 05:15
+Hoe,11,Gardening,South Korea,2022-06-23 05:15
+Nyquill,12,Health,South Korea,2022-06-23 05:15
+PC,13,Technology,South Korea,2022-06-23 05:15
+Plants,14,Gardening,South Korea,2022-06-23 05:15
+Rake,14,Gardening,South Korea,2022-06-23 05:15
+Shirt,16,Clothing,South Korea,2022-06-23 05:15
+Shoes,15,Clothing,South Korea,2022-06-23 05:15
+Table,12,Home Appliances,South Korea,2022-06-23 05:15
+Tablet,14,Technology,South Korea,2022-06-23 05:15
+Tylenol,8,Health,South Korea,2022-06-23 05:15
+Undefined,9,Home Appliances,South Korea,2022-06-23 05:15
+Wires,14,Technology,South Korea,2022-06-23 05:15
+Advil,21,Health,United States,2022-06-23 05:15
+Bed,25,Home Appliances,United States,2022-06-23 05:15
+Couch,25,Home Appliances,United States,2022-06-23 05:15
+Dress,24,Clothing,United States,2022-06-23 05:15
+Hoe,30,Gardening,United States,2022-06-23 05:15
+Nyquill,31,Health,United States,2022-06-23 05:15
+PC,27,Technology,United States,2022-06-23 05:15
+Plants,27,Gardening,United States,2022-06-23 05:15
+Rake,29,Gardening,United States,2022-06-23 05:15
+Shirt,32,Clothing,United States,2022-06-23 05:15
+Shoes,21,Clothing,United States,2022-06-23 05:15
+Table,25,Home Appliances,United States,2022-06-23 05:15
+Tablet,22,Technology,United States,2022-06-23 05:15
+Tylenol,26,Health,United States,2022-06-23 05:15
+Undefined,34,Home Appliances,United States,2022-06-23 05:15
+Wires,28,Technology,United States,2022-06-23 05:15
