@@ -1,0 +1,157 @@
+---
+title: "Project2Visual"
+author: "Group3"
+date: '2022-05-25'
+output: pdf_document
+---
+
+```{r setup, include=TRUE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(ggplot2)
+mydata<-read.csv("/Users/jodimitchell/updatedFinal.csv", header=TRUE)
+
+### Question 1 ###
+ggplot(mydata, aes(COUNTRY, fill = PRODUCT_CAT))+
+  scale_fill_manual(name = "Product Categories", values=c("#999999", "#E69F00", "#56B4E9", "#009E73", "#0072B2"))+
+  geom_bar(width = 0.5,position = position_dodge(0.7))+
+  ggtitle("OverView Of all Products Sold Per Country")+
+  scale_x_discrete("Country", labels = c("South Korea" = "SK", "United States" = "US"))+
+  ylab("Count")+
+  labs()
+  
+topCat <- read.csv("/Users/jodimitchell/project2/answer1/topCategory.csv", header=TRUE)
+ggplot(topCat, aes(x= COUNTRY, y = MAXCOUNT, fill= PRODUCT_CAT))+
+  scale_fill_manual(name = "Product Categories", values=c("#999999", "#E69F00", "#56B4E9", "#009E73", "#0072B2"))+
+  geom_bar(width = 0.5, stat='identity', position = position_dodge(0.7))+
+  ggtitle("Top Product Categories Per Country")+
+  scale_x_discrete("Country", labels = c("South Korea" = "SK", "United States" = "US"))+
+  ylab("Count")+
+  labs()
+
+
+### Question 2 ###
+popProduct <- read.csv("/Users/jodimitchell/popProduct.csv", header=TRUE)
+
+## All products for Brazil
+brazilP<-subset(popProduct, COUNTRY = 'Brazil')
+ggplot(brazilP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of Brazil's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for China
+chinaP<-subset(popProduct, COUNTRY = 'China')
+ggplot(chinaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of China's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+
+## All products for France
+franceP<-subset(popProduct, COUNTRY = 'France')
+ggplot(franceP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of France's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for Germany
+germanyP<-subset(popProduct, COUNTRY = 'Germany')
+ggplot(germanyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of Germany's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for India
+indiaP<-subset(popProduct, COUNTRY = 'India')
+ggplot(indiaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of India's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for Italy
+italyP<-subset(popProduct, COUNTRY = 'Italy')
+ggplot(italyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of Italy's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for Japan
+japanP<-subset(popProduct, COUNTRY = 'Japan')
+ggplot(japanP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of Japan's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for Mexico
+mexicoP<-subset(popProduct, COUNTRY = 'Mexico')
+ggplot(mexicoP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of Mexico's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for South Korea
+skP<-subset(popProduct, COUNTRY = 'South Korea')
+ggplot(skP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of South Korea's Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+  
+## All products for United States
+usP<-subset(popProduct, COUNTRY = 'United States')
+ggplot(usP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
+  scale_fill_hue(name= 'Product Names',l=40)+
+  geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
+  scale_y_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ggtitle("Popularity Of United States' Products\nThroughout The Year")+
+  ylab("Date")+
+  xlab("Count")
+  labs()
+
+### question 4 ###
+sales<-read.csv("/Users/jodimitchell/priceSales.csv", header=TRUE)
+ggplot(sales, aes(x = DATE, y = SALES, fill =COUNTRY))+
+  geom_bar(width = 0.5, stat='identity', position = position_dodge(0.7))+
+  ggtitle("Sales Through the year Per Country")+
+  scale_x_discrete("Date", labels = c("2022-06-23 05:15" = "June", "2022-05-18 02:33" = "May","2022-04-07 9:30"= "April", "2022-01-23 10:33" = "January"))+
+  ylab("Sales")+
+  labs()
+
+
+```
+

@@ -1,4 +1,4 @@
-ORDER_ID,CUSTOMER_ID,CUSTOMER_NAME,PRODUCT_ID,PRODUCT_CAT,PRODUCT_NAME,PAYMENT_TYPE,QTY,PRICE,DATETIME,COUNTRY,CITY,WEBSITE,PAYMENT_ID,PAYMENT_SUCESS,FAILURE_REASON
+ORDER_ID,CUST_ID,CUST_NAME,PRODUCT_ID,PRODUCT_CAT,PRODUCT_NAME,PAYMENT_TYPE,QTY,PRICE,DATETIME,COUNTRY,CITY,WEBSITE,PAYMENT_ID,PAYMENT_SUCCESS,FAILURE_REASON
 1,5838,Jennifer Allen,2706,Health,Tylenol,Debit Card,99,402,2022-05-18 02:33,China,Beijing,Target.com,59,N,I didn't have enough
 2,671,Stefanie Simpson,4499,Home Appliances,Couch,Mobile Payments,98,521,2022-06-23 05:15,United States,Houston,Alibaba.com,69,N,I didn't have enough
 3,6751,Warren Boyle,7186,Clothing,Shirt,Debit Card,65,4,2022-06-23 05:15,China,Tianjin,Ebay.com,9,N,My card was closed
@@ -9980,4 +9980,4 @@ ORDER_ID,CUSTOMER_ID,CUSTOMER_NAME,PRODUCT_ID,PRODUCT_CAT,PRODUCT_NAME,PAYMENT_T
 9979,3232,Christina George,2313,Home Appliances,Table,Mobile Payments,72,482,2022-05-18 02:33,Germany,Berlin,Amazon.com,98,Y,Payment Successful
 9980,6404,Michael Thompson,8198,Technology,Wires,Mobile Payments,37,88,2022-05-18 02:33,France,Toulouse,Alibaba.com,17,Y,Payment Successful
 9981,652,Holly Rodriguez,5674,Home Appliances,Undefined,Mobile Payments,12,792,2022-05-18 02:33,Italy,Rome,Ebay.com,52,Y,Payment Successful
-610,Ashley Murphy,8232,Home Appliances,Table,Mobile Payments,25,600,2022-06-23 05:15,Germany,Munich,Alibaba.com,6,Y,Payment Successful 
+9982,610,Ashley Murphy,8232,Home Appliances,Table,Mobile Payments,25,600,2022-06-23 05:15,Germany,Munich,Alibaba.com,6,Y,Payment Successful 
