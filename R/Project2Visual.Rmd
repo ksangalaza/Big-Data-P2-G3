@@ -29,12 +29,17 @@ ggplot(topCat, aes(x= COUNTRY, y = MAXCOUNT, fill= PRODUCT_CAT))+
   ylab("Count")+
   labs()
 
+library(dplyr)
+
+
+
 
 ### Question 2 ###
 popProduct <- read.csv("/Users/jodimitchell/popProduct.csv", header=TRUE)
 
 ## All products for Brazil
-brazilP<-subset(popProduct, COUNTRY = 'Brazil')
+
+brazilP<- popProduct %>% filter(COUNTRY == 'Brazil')
 ggplot(brazilP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -45,7 +50,7 @@ ggplot(brazilP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for China
-chinaP<-subset(popProduct, COUNTRY = 'China')
+chinaP<- popProduct %>% filter(COUNTRY == 'China')
 ggplot(chinaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -56,7 +61,7 @@ ggplot(chinaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
 
 ## All products for France
-franceP<-subset(popProduct, COUNTRY = 'France')
+franceP<- popProduct %>% filter(COUNTRY == 'France')
 ggplot(franceP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -67,7 +72,7 @@ ggplot(franceP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for Germany
-germanyP<-subset(popProduct, COUNTRY = 'Germany')
+germanyP<- popProduct %>% filter(COUNTRY == 'Germany')
 ggplot(germanyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -78,7 +83,7 @@ ggplot(germanyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for India
-indiaP<-subset(popProduct, COUNTRY = 'India')
+indiaP<- popProduct %>% filter(COUNTRY == 'India')
 ggplot(indiaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -89,7 +94,7 @@ ggplot(indiaP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for Italy
-italyP<-subset(popProduct, COUNTRY = 'Italy')
+italyP<- popProduct %>% filter(COUNTRY == 'Italy')
 ggplot(italyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -100,7 +105,7 @@ ggplot(italyP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for Japan
-japanP<-subset(popProduct, COUNTRY = 'Japan')
+japanP<- popProduct %>% filter(COUNTRY == 'Japan')
 ggplot(japanP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -111,7 +116,7 @@ ggplot(japanP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for Mexico
-mexicoP<-subset(popProduct, COUNTRY = 'Mexico')
+mexicoP<- popProduct %>% filter(COUNTRY == 'Mexico')
 ggplot(mexicoP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -122,7 +127,7 @@ ggplot(mexicoP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for South Korea
-skP<-subset(popProduct, COUNTRY = 'South Korea')
+skP<- popProduct %>% filter(COUNTRY == 'South Korea')
 ggplot(skP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
@@ -133,7 +138,7 @@ ggplot(skP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   labs()
   
 ## All products for United States
-usP<-subset(popProduct, COUNTRY = 'United States')
+usP<- popProduct %>% filter(COUNTRY == 'United States')
 ggplot(usP, aes(y = DATETIME,x= PCOUNT,fill = PRODUCT_NAME))+
   scale_fill_hue(name= 'Product Names',l=40)+
   geom_bar(width = 0.5, position = position_dodge(0.7), stat='identity')+
